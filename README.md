@@ -1,6 +1,6 @@
 # mysqldata
 
-A project that manages MySQL data, offering functionality to interact with and manipulate MySQL databases using Python. This project simplifies tasks like fetching, updating, and deleting data, offering a convenient interface for working with MySQL.
+A project that manages MySQL data, offering functionality to interact with and manipulate MySQL databases using .Net. This project simplifies tasks like fetching, updating, and deleting data, offering a convenient interface for working with MySQL.
 
 ## Features
 
