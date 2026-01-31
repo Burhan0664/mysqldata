@@ -43,11 +43,6 @@ Projeyi çalıştırmak için aşağıdakiler gereklidir:
 
 3. Projeyi Visual Studio veya VS Code ile açın.
 
-4. MySQL bağlantı dizesini kendi veritabanı bilgilerinle değiştirin:
-
-   ```csharp
-   string connectionString = "Server=localhost;Database=YourDB;Uid=root;Pwd=yourPassword;";
-   ```
 
 ---
 
