@@ -30,7 +30,7 @@ Projeyi çalıştırmak için aşağıdakiler gereklidir:
 ## 🚀 Kurulum
 
 1. Reposu klonlayın:
-   ```bash
+```
    git clone https://github.com/Burhan0664/mysqldata.git
 ````
 
