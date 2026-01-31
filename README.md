@@ -1,7 +1,7 @@
 
 # mysqldata
 
-Bu proje, **.NET ile MySQL veritabanı üzerinde CRUD (Create, Read, Update, Delete) işlemlerini öğretmek ve pratiğe dökmek** amacıyla hazırlanmış basit bir uygulamadır.  
+Bu proje, **.NET ile MySQL veritabanı üzerinde CRUD (Create, Read, Update, Delete) işlemlerini öğrenmek ve pratiğe dökmek** amacıyla hazırlanmış basit bir uygulamadır.  
 Veritabanı bağlantısı, temel sorgular ve veri yönetimi yapısı içermektedir.
 
 ---
