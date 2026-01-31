@@ -62,4 +62,8 @@ Bu repo, .NET ile MySQL kullanarak **temel veritabanı işlemlerini öğrenmek v
 Bu proje MIT lisansı ile lisanslanmıştır.
 
 ```
+## 👨‍💻 Geliştirici
 
+**Burhan Çavdaroğlu**  
+📍 Ankara, Türkiye  
+🔗 LinkedIn: https://www.linkedin.com/in/burhancavdaroglu/
