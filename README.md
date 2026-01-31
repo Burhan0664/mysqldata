@@ -52,10 +52,6 @@ Bu repo, .NET ile MySQL kullanarak **temel veritabanı işlemlerini öğrenmek v
 
 ---
 
-## 📄 Lisans
-
-Bu proje MIT lisansı ile lisanslanmıştır.
-
 
 ## 👨‍💻 Geliştirici
 
