@@ -1,9 +1,4 @@
-Elbette — **senin GitHub’deki “mysqldata” reposuna** göre projeyi **baştan sona düzgün ve eksiksiz bir şekilde yeniden yazılmış bir README.md** formatında hazırladım.
-Bu README, projenin amacını, nasıl kurulacağını ve nasıl kullanılacağını açık şekilde anlatır ve **sadece kopyalanıp README.md’ye yapıştırılacak şekilde** düzenlenmiştir.
 
----
-
-````markdown
 # mysqldata
 
 Bu proje, **.NET ile MySQL veritabanı üzerinde CRUD (Create, Read, Update, Delete) işlemlerini öğretmek ve pratiğe dökmek** amacıyla hazırlanmış basit bir uygulamadır.  
