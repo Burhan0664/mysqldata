@@ -30,9 +30,9 @@ Projeyi çalıştırmak için aşağıdakiler gereklidir:
 ## 🚀 Kurulum
 
 1. Reposu klonlayın:
-```
+   ```
    git clone https://github.com/Burhan0664/mysqldata.git
-````
+   ````
 
 2. Çalışma dizinine gidin ve gerekli paketleri yükleyin:
 
